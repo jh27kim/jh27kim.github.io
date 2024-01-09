@@ -14,10 +14,12 @@ Previously, I was a cloud storage engineer at Samsung Electronics, Hwasung, Sout
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Mar. 2023]** Joined KAIST School of Computing as Master student
+- **[Feb. 2023]** One paper about privacy preserving SfM is accepted to CVPR 2023
+- **[Aug. 2021]** Graduated Hanyang university (EE)
+- **[July. 2021]** Joined Samsung Electronics as a cloud storage engineer
+- **[June. 2020]** Intern at Samsung Electronics 
+- **[June. 2019]** Exchange student program at University of Texas at Austin
 
 {% include_relative _includes/publications.md %}
 
