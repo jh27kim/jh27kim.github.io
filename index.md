@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am pursuing a Master's Degree at KAIST (Korea Advanced Institute of Science and Technology) student under the guidance of <a href="https://mhsung.github.io/">Prof. Minhyuk Sung.
+I am pursuing a Master's Degree at KAIST (Korea Advanced Institute of Science and Technology) student under the guidance of <a href="https://mhsung.github.io/">Prof. Minhyuk Sung</a>.
 Previously, I was a cloud storage engineer at Samsung Electronics, Hwasung, South Korea. 
 
 ## Research Interests
