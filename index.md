@@ -9,8 +9,8 @@ Previously, I was a cloud storage engineer at Samsung Electronics, Hwasung, Sout
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** 3D computer vision, novel view synthesis, 3D reconstruction
+- **Machine Learning:** Bayesian learning, optimization
 
 ## News
 
