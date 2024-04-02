@@ -15,7 +15,7 @@ Previously, I was a cloud storage engineer at Samsung Electronics, Hwasung, Sout
 ## News
 
 - **[Mar. 2023]** Joined KAIST School of Computing as Master student
-- **[Feb. 2023]** One paper about privacy preserving SfM is accepted to CVPR 2023
+- **[Feb. 2023]** One paper is accepted to CVPR 2023
 - **[Aug. 2021]** Graduated Hanyang university (EE)
 - **[July. 2021]** Joined Samsung Electronics as a cloud storage engineer
 - **[June. 2020]** Intern at Samsung Electronics 
