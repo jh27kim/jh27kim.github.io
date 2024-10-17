@@ -1,11 +1,11 @@
-main:
-  - title: "Paired-Point Lifting for Enhanced Privacy-Preserving Visual Localization"
-    authors: Jungwhan Lee, <strong>Jaihoon Kim</strong>, Chanhyuk Yun, Je Hyeong Hong
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
-    pdf: https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_Paired-Point_Lifting_for_Enhanced_Privacy-Preserving_Visual_Localization_CVPR_2023_paper.pdf
-    code: https://github.com/jh27kim/ppl
-    page: 
-    bibtex: 
-    notes: Review score (5, 4, 4)
-    image: ./assets/img/teaser_1.png
+# main:
+#   - title: "Paired-Point Lifting for Enhanced Privacy-Preserving Visual Localization"
+#     authors: Jungwhan Lee, <strong>Jaihoon Kim</strong>, Chanhyuk Yun, Je Hyeong Hong
+#     conference_short: CVPR
+#     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
+#     pdf: https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_Paired-Point_Lifting_for_Enhanced_Privacy-Preserving_Visual_Localization_CVPR_2023_paper.pdf
+#     code: https://github.com/jh27kim/ppl
+#     page: 
+#     bibtex: 
+#     notes: Review score (5, 4, 4)
+#     image: ./assets/img/ppl.png
