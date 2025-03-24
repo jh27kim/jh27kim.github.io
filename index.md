@@ -11,10 +11,11 @@ Previously, I worked as a cloud storage engineer at Samsung Electronics, South K
 ## Research Interests
 
 - **Computer Vision:** Generative model, 3D computer vision, novel view synthesis, 3D reconstruction
-- **Machine Learning:** Diffusion model, bayesian learning
+- **Machine Learning:** Diffusion model, flow model, bayesian learning
 
 ## News
 
+- **[Jan. 2025]** One paper is accepted to ICLR 2025
 - **[Sep. 2024]** One paper is accepted to NeurIPS 2024
 - **[Sep. 2024]** Joined KAIST School of Computing as a Ph.D student
 - **[Mar. 2023]** Joined KAIST School of Computing as a Master student
