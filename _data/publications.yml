@@ -1,4 +1,37 @@
 main:
+  - title: "Inference-Time Scaling for Flow Models via Stochastic Generation and Rollover Budget Forcing"
+    authors: <strong>Jaihoon Kim</strong><sup>*</sup>, Taehoon Yoon<sup>*</sup>, <strong>Jisung Hwang</strong><sup>*</sup>, Minhyuk Sung (<sup>*</sup> Equal contribution.)
+    conference_short: NeurIPS
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2503.19385
+    code: https://github.com/KAIST-Visual-AI-Group/Flow-Inference-Time-Scaling
+    page: https://flow-inference-time-scaling.github.io/
+    bibtex: 
+    notes: 
+    image: ./assets/img/rbf.png
+
+  - title: "Moment- and Power-Spectrum-Based Gaussianity Regularization for Text-to-Image Models"
+    authors: Jisung Hwang, <strong>Jaihoon Kim</strong>, Minhyuk Sung
+    conference_short: NeurIPS
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2509.07027
+    # code: https://github.com/KAIST-Visual-AI-Group/StochSync
+    # page: https://stochsync.github.io/
+    bibtex: 
+    notes: 
+    image: ./assets/img/gaussianity.png
+
+  - title: "Unconditional Priors Matter! Improving Conditional Generation of Fine-Tuned Diffusion Models"
+    authors: Kyeongmin Yeo<sup>*</sup>, <strong>Jaihoon Kim</strong><sup>*</sup>, Minhyuk Sung (<sup>*</sup> Equal contribution.)
+    conference_short: WACV
+    conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2503.20240
+    # code: https://github.com/KAIST-Visual-AI-Group/StochSync
+    page: https://unconditional-priors-matter.github.io/
+    bibtex: 
+    notes: 
+    image: ./assets/img/stochsync.png 
+
   - title: "StochSync: Stochastic Diffusion Synchronization for Image Generation in Arbitrary Spaces"
     authors: Kyeongmin Yeo<sup>*</sup>, <strong>Jaihoon Kim</strong><sup>*</sup>, Minhyuk Sung (<sup>*</sup> Equal contribution.)
     conference_short: ICLR
@@ -18,7 +51,6 @@ main:
     code: https://github.com/KAIST-Visual-AI-Group/SyncTweedies
     page: https://synctweedies.github.io/
     bibtex: 
-    notes: Review score (7, 6, 7)
     image: ./assets/img/synctweedies.png
       
   - title: "Paired-Point Lifting for Enhanced Privacy-Preserving Visual Localization"
@@ -29,5 +61,4 @@ main:
     code: https://github.com/jh27kim/ppl
     page: 
     bibtex: 
-    notes: Review score (5, 4, 4)
     image: ./assets/img/ppl.png

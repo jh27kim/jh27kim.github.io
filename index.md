@@ -4,17 +4,24 @@ layout: homepage
 
 ## About Me
 
-I am a second-year Ph.D. student at KAIST (Korea Advanced Institute of Science and Technology). 
-My academic advisor is <a href="https://mhsung.github.io/">Prof. Minhyuk Sung</a>.
-Previously, I worked as a cloud storage engineer at Samsung Electronics, South Korea.
+I am a second-year Ph.D. student in School of Computing at KAIST, where I am advised by Prof. Minhyuk Sung. 
+My research interests include, but are not limited to, diffusion and flow models, discrete diffusion, multimodal generation, and video generation. 
 
-## Research Interests
+## Past Experiences
 
-- **Computer Vision:** Generative model, 3D computer vision, novel view synthesis, 3D reconstruction
-- **Machine Learning:** Diffusion model, flow model, bayesian learning
+- **Amazon Web Service (Santa Clara, United States):** Research intern 
+
+- **Samsung Electronics (Hwasung, South Korea):** Full-time engineer
+
+- **Samsung Electronics (Hwasung, South Korea):** Engineer intern
+
 
 ## News
 
+
+- **[Sep. 2025]** Two papers are accepted to NeurIPS 2025
+- **[Sep. 2025]** One paper is accepted to WACV 2026
+- **[July. 2025]** Internship at AWS
 - **[Jan. 2025]** One paper is accepted to ICLR 2025
 - **[Sep. 2024]** One paper is accepted to NeurIPS 2024
 - **[Sep. 2024]** Joined KAIST School of Computing as a Ph.D student

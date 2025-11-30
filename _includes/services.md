@@ -3,8 +3,7 @@
 <h4 style="margin:0 10px 0;">Academic Service</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://iccv.thecvf.com/">ICCV 2025 Reviewer.</a></li>
-  <li><a href="https://iclr.cc/Conferences/2024">ICLR 2024 Reviewer.</a></li>
+  Reviewer: ICCV 2025, ICLR 2024, NeurIPS 2024, NeurIPS 2025, 3DV2026, ICLR 2026, CVPR 2026
 </ul>
 
 <!-- <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
