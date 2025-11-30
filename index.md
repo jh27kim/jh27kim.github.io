@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year Ph.D. student at KAIST (Korea Advanced Institute of Science and Technology). 
+I am a second-year Ph.D. student at KAIST (Korea Advanced Institute of Science and Technology). 
 My academic advisor is <a href="https://mhsung.github.io/">Prof. Minhyuk Sung</a>.
 Previously, I worked as a cloud storage engineer at Samsung Electronics, South Korea.
 
