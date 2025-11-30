@@ -30,7 +30,7 @@ main:
     page: https://unconditional-priors-matter.github.io/
     bibtex: 
     notes: 
-    image: ./assets/img/stochsync.png 
+    image: ./assets/img/uncond.png 
 
   - title: "StochSync: Stochastic Diffusion Synchronization for Image Generation in Arbitrary Spaces"
     authors: Kyeongmin Yeo<sup>*</sup>, <strong>Jaihoon Kim</strong><sup>*</sup>, Minhyuk Sung (<sup>*</sup> Equal contribution.)
