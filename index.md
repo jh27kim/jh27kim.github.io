@@ -10,9 +10,7 @@ My research interests include, but are not limited to, diffusion and flow models
 ## Past Experiences
 
 - **Amazon Web Service (Santa Clara, United States):** Research intern 
-
 - **Samsung Electronics (Hwasung, South Korea):** Full-time engineer
-
 - **Samsung Electronics (Hwasung, South Korea):** Engineer intern
 
 
