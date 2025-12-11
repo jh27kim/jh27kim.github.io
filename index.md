@@ -5,13 +5,13 @@ layout: homepage
 ## About Me
 
 I am a second-year Ph.D. student in School of Computing at KAIST, where I am advised by Prof. Minhyuk Sung. 
-My research interests include, but are not limited to, diffusion and flow models, discrete diffusion, multimodal generation, and video generation. 
+I work on designing generative models and efficient inference algorithms for synthesizing diverse data, capturing the inherent structure, representations, and physical constraints of the underlying modality. 
 
 ## Past Experiences
 
-- **Amazon Web Service (Santa Clara, United States):** Research intern 
-- **Samsung Electronics (Hwasung, South Korea):** Full-time engineer
-- **Samsung Electronics (Hwasung, South Korea):** Engineer intern
+- **Amazon Web Service (Santa Clara, United States):** Research Scientist Intern
+- **Samsung Electronics (Hwasung, South Korea):** Cloud Engineer
+- **Samsung Electronics (Hwasung, South Korea):** Cloud Engineer Intern
 
 
 ## News

@@ -22,7 +22,7 @@ main:
     image: ./assets/img/gaussianity.png
 
   - title: "Unconditional Priors Matter! Improving Conditional Generation of Fine-Tuned Diffusion Models"
-    authors: Kyeongmin Yeo<sup>*</sup>, <strong>Jaihoon Kim</strong><sup>*</sup>, Minhyuk Sung (<sup>*</sup> Equal contribution.)
+    authors: Prin Phunyaphibarn, Phillip Y. Lee, <strong>Jaihoon Kim</strong>, Minhyuk Sung
     conference_short: WACV
     conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2026.
     pdf: https://arxiv.org/abs/2503.20240
