@@ -4,7 +4,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://cvpr.thecvf.com/">CVPR 2026 Reviewer.</a></li>
-  <li><a href="https://iclr.cc/">ICLR 2024, 2025 Reviewer.</a></li>
+  <li><a href="https://iclr.cc/">ICLR 2024, 2025, 2026 Reviewer.</a></li>
   <li><a href="https://neurips.cc/">NeurIPS 2024, 2025 Reviewer.</a></li>
   <li><a href="https://iccv.thecvf.com/">ICCV 2025 Reviewer.</a></li>
 </ul>
