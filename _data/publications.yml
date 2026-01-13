@@ -1,6 +1,6 @@
 main:
   - title: "Inference-Time Scaling for Flow Models via Stochastic Generation and Rollover Budget Forcing"
-    authors: <strong>Jaihoon Kim</strong><sup>*</sup>, Taehoon Yoon<sup>*</sup>, <strong>Jisung Hwang</strong><sup>*</sup>, Minhyuk Sung (<sup>*</sup> Equal contribution.)
+    authors: <strong>Jaihoon Kim</strong><sup>*</sup>, Taehoon Yoon<sup>*</sup>, Jisung Hwang<sup>*</sup>, Minhyuk Sung (<sup>*</sup> Equal contribution.)
     conference_short: NeurIPS
     conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
     pdf: https://arxiv.org/abs/2503.19385

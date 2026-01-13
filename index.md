@@ -9,7 +9,7 @@ I work on designing generative models and efficient inference algorithms for syn
 
 ## Past Experiences
 
-- **Amazon Web Service (Santa Clara, United States):** Research Scientist Intern
+- **Amazon Web Services (Santa Clara, United States):** Research Scientist Intern
 - **Samsung Electronics (Hwasung, South Korea):** Cloud Engineer
 - **Samsung Electronics (Hwasung, South Korea):** Cloud Engineer Intern
 
