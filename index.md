@@ -17,6 +17,7 @@ I work on designing generative models and efficient inference algorithms for syn
 ## News
 
 
+- **[Jan. 2026]** One paper is accepted to AISTATS 2026
 - **[Sep. 2025]** Two papers are accepted to NeurIPS 2025
 - **[Sep. 2025]** One paper is accepted to WACV 2026
 - **[July. 2025]** Internship at AWS

@@ -1,4 +1,15 @@
 main:
+  - title: "Demystifying Transition Matching: When and Why It Can Beat Flow Matching"
+    authors: <strong>Jaihoon Kim</strong><sup>*</sup>, Rajarshi Saha, Minhyuk Sung, Youngsuk Park 
+    conference_short: AISTATS
+    conference: Artificial Intelligence and Statistics <strong>(AISTATS)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2510.17991
+    # code: https://github.com/KAIST-Visual-AI-Group/Flow-Inference-Time-Scaling
+    # page: https://flow-inference-time-scaling.github.io/
+    bibtex: 
+    notes: 
+    image: ./assets/img/demystifying_tm.png
+
   - title: "Inference-Time Scaling for Flow Models via Stochastic Generation and Rollover Budget Forcing"
     authors: <strong>Jaihoon Kim</strong><sup>*</sup>, Taehoon Yoon<sup>*</sup>, Jisung Hwang<sup>*</sup>, Minhyuk Sung (<sup>*</sup> Equal contribution.)
     conference_short: NeurIPS
