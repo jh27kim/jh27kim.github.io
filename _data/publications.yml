@@ -11,7 +11,7 @@ main:
     image: ./assets/img/demystifying_tm.png
 
   - title: "Inference-Time Scaling for Flow Models via Stochastic Generation and Rollover Budget Forcing"
-    authors: <strong>Jaihoon Kim</strong><sup>*</sup>, Taehoon Yoon<sup>*</sup>, Jisung Hwang<sup>*</sup>, Minhyuk Sung (<sup>*</sup> Equal contribution.)
+    authors: <strong>Jaihoon Kim</strong><sup>*</sup>, Taehoon Yoon<sup>*</sup>, Jisung Hwang<sup>*</sup>, Minhyuk Sung
     conference_short: NeurIPS
     conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
     pdf: https://arxiv.org/abs/2503.19385
@@ -44,7 +44,7 @@ main:
     image: ./assets/img/uncond.png 
 
   - title: "StochSync: Stochastic Diffusion Synchronization for Image Generation in Arbitrary Spaces"
-    authors: Kyeongmin Yeo<sup>*</sup>, <strong>Jaihoon Kim</strong><sup>*</sup>, Minhyuk Sung (<sup>*</sup> Equal contribution.)
+    authors: Kyeongmin Yeo<sup>*</sup>, <strong>Jaihoon Kim</strong><sup>*</sup>, Minhyuk Sung
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2501.15445
@@ -55,7 +55,7 @@ main:
     image: ./assets/img/stochsync.png
 
   - title: "SyncTweedies: A General Generative Framework Based on Synchronized Diffusions"
-    authors: <strong>Jaihoon Kim</strong><sup>*</sup>, Juil Koo<sup>*</sup>, Kyeongmin Yeo<sup>*</sup>, Minhyuk Sung (<sup>*</sup> Equal contribution.)
+    authors: <strong>Jaihoon Kim</strong><sup>*</sup>, Juil Koo<sup>*</sup>, Kyeongmin Yeo<sup>*</sup>, Minhyuk Sung
     conference_short: NeurIPS
     conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     pdf: https://synctweedies.github.io/static//synctweedies.pdf
