@@ -1,6 +1,6 @@
 main:
   - title: "Demystifying Transition Matching: When and Why It Can Beat Flow Matching"
-    authors: <strong>Jaihoon Kim</strong><sup>*</sup>, Rajarshi Saha, Minhyuk Sung, Youngsuk Park 
+    authors: <strong>Jaihoon Kim</strong>, Rajarshi Saha, Minhyuk Sung, Youngsuk Park 
     conference_short: AISTATS
     conference: Artificial Intelligence and Statistics <strong>(AISTATS)</strong>, 2026.
     pdf: https://arxiv.org/abs/2510.17991
