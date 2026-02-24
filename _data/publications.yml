@@ -1,4 +1,15 @@
 main:
+  - title: "MatLat: Material Latent Space for PBR Texture Generation"
+    authors: Kyeongmin Yeo Yunhong Min <strong>Jaihoon Kim</strong> Minhyuk Sung
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2512.17302
+    # code: 
+    page: https://matlat-proj.github.io/
+    bibtex: 
+    notes: 
+    image: ./assets/img/matlat-thumbnail.png
+
   - title: "Demystifying Transition Matching: When and Why It Can Beat Flow Matching"
     authors: <strong>Jaihoon Kim</strong>, Rajarshi Saha, Minhyuk Sung, Youngsuk Park 
     conference_short: AISTATS
