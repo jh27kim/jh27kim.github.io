@@ -2,7 +2,7 @@ main:
   - title: "MatLat: Material Latent Space for PBR Texture Generation"
     authors: Kyeongmin Yeo, Yunhong Min, <strong>Jaihoon Kim</strong>, Minhyuk Sung
     conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026 <strong style="color:red">(Highlight)</strong>.
     pdf: https://arxiv.org/abs/2512.17302
     # code: 
     page: https://matlat-proj.github.io/
