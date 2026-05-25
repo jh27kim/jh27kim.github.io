@@ -15,7 +15,7 @@ main:
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026 <strong style="color:red">(Highlight)</strong>.
     pdf: https://arxiv.org/abs/2512.17302
-    # code: 
+    code: https://github.com/KAIST-Visual-AI-Group/MatLat
     page: https://matlat-proj.github.io/
     bibtex: 
     notes: 
