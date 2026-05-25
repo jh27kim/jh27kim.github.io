@@ -1,4 +1,15 @@
 main:
+  - title: "Contrastive Distribution Matching for Amortized Sequential Monte Carlo in Discrete Diffusion"
+    authors: <strong>Jaihoon Kim</strong>, Taehoon Yoon, Prin Phunyaphibarn, Seungjun Kim, Morteza Mardani, Minhyuk Sung
+    # conference_short: 
+    # conference: 
+    pdf: https://arxiv.org/abs/2605.23346
+    code: https://github.com/KAIST-Visual-AI-Group/CDM
+    page: https://cdm-smc.github.io/
+    bibtex: 
+    notes: 
+    image: ./assets/img/cdm-thumbnail.png
+
   - title: "MatLat: Material Latent Space for PBR Texture Generation"
     authors: Kyeongmin Yeo, Yunhong Min, <strong>Jaihoon Kim</strong>, Minhyuk Sung
     conference_short: CVPR
@@ -15,8 +26,8 @@ main:
     conference_short: AISTATS
     conference: Artificial Intelligence and Statistics <strong>(AISTATS)</strong>, 2026.
     pdf: https://arxiv.org/abs/2510.17991
-    # code: https://github.com/KAIST-Visual-AI-Group/Flow-Inference-Time-Scaling
-    # page: https://flow-inference-time-scaling.github.io/
+    code: https://github.com/amazon-science/TransitionFlowMatching
+    # page: 
     bibtex: 
     notes: 
     image: ./assets/img/demystifying_tm.png
@@ -37,8 +48,8 @@ main:
     conference_short: NeurIPS
     conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
     pdf: https://arxiv.org/abs/2509.07027
-    # code: https://github.com/KAIST-Visual-AI-Group/StochSync
-    # page: https://stochsync.github.io/
+    # code: 
+    # page: 
     bibtex: 
     notes: 
     image: ./assets/img/gaussianity.png
@@ -48,7 +59,7 @@ main:
     conference_short: WACV
     conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2026.
     pdf: https://arxiv.org/abs/2503.20240
-    # code: https://github.com/KAIST-Visual-AI-Group/StochSync
+    # code: 
     page: https://unconditional-priors-matter.github.io/
     bibtex: 
     notes: 
