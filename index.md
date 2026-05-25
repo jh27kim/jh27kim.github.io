@@ -7,8 +7,9 @@ layout: homepage
 I am a second-year Ph.D. student in the School of Computing at KAIST, where I am advised by [Prof. Minhyuk Sung](https://mhsung.github.io/).
 I work on designing generative models and efficient inference algorithms for synthesizing diverse data, capturing the inherent structure, representations, and physical constraints of the underlying modality. 
 
-## Past Experiences
+## Work Experiences
 
+- **Netflix (Log Gatos, United States):** Research Scientist Intern
 - **Amazon Web Services (Santa Clara, United States):** Research Scientist Intern
 - **Samsung Electronics (Hwasung, South Korea):** Cloud Engineer
 - **Samsung Electronics (Hwasung, South Korea):** Cloud Engineer Intern
