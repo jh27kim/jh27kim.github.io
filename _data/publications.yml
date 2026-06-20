@@ -10,6 +10,17 @@ main:
     notes: 
     image: ./assets/img/cdm-thumbnail.png
 
+  - title: "NoiseTilt: Noise-Tilted Reverse Kernels for Diffusion Reward Alignment"
+    authors: Jisung Hwang, Yunhong Min, <strong>Jaihoon Kim</strong>, I-Chao Shen, Minhyuk Sung
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2026
+    pdf: https://arxiv.org/abs/2606.18066
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: ./assets/img/noisetilt-thumbnail.png
+
   - title: "MatLat: Material Latent Space for PBR Texture Generation"
     authors: Kyeongmin Yeo, Yunhong Min, <strong>Jaihoon Kim</strong>, Minhyuk Sung
     conference_short: CVPR
