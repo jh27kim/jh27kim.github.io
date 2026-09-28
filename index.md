@@ -17,7 +17,8 @@ I work on designing generative models and efficient inference algorithms for syn
 
 ## News
 
-- **[Feb. 2026]** One paper is accepted to ECCV 2026
+- **[Sep. 2026]** One paper is accepted to NeurIPS 2026
+- **[June. 2026]** One paper is accepted to ECCV 2026
 - **[June. 2026]** Internship at Netflix
 - **[Feb. 2026]** One paper is accepted to CVPR 2026
 - **[Jan. 2026]** One paper is accepted to AISTATS 2026
