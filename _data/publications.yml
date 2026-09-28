@@ -1,8 +1,8 @@
 main:
   - title: "Contrastive Distribution Matching for Amortized Sequential Monte Carlo in Discrete Diffusion"
     authors: <strong>Jaihoon Kim</strong>, Taehoon Yoon, Prin Phunyaphibarn, Seungjun Kim, Morteza Mardani, Minhyuk Sung
-    # conference_short: 
-    # conference: 
+    conference_short: NeurIPS
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026.
     pdf: https://arxiv.org/abs/2605.23346
     code: https://github.com/KAIST-Visual-AI-Group/CDM
     page: https://cdm-smc.github.io/
