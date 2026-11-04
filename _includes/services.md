@@ -3,10 +3,12 @@
 <h4 style="margin:0 10px 0;">Academic Service</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://cvpr.thecvf.com/">CVPR 2026 Reviewer.</a></li>
-  <li><a href="https://iclr.cc/">ICLR 2024, 2025, 2026 Reviewer.</a></li>
+  <li><a href="https://bento-neurips.github.io/">BeNTo Workshop Organizer.</a></li>
+  <li><a href="https://iclr.cc/">ICLR 2024, 2025, 2026, 2027 Reviewer.</a></li>
   <li><a href="https://neurips.cc/">NeurIPS 2024, 2025, 2026 Reviewer.</a></li>
+  <li><a href="https://cvpr.thecvf.com/">CVPR 2026 Reviewer.</a></li>
   <li><a href="https://iccv.thecvf.com/">ICCV 2025 Reviewer.</a></li>
+  <li><a href="https://iccv.thecvf.com/">ECCV 2026 Reviewer.</a></li>
 </ul>
 
 <!-- <h4 style="margin:0 10px 0;">Journal Reviewers</h4>

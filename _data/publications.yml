@@ -1,4 +1,26 @@
 main:
+  - title: "sDMD: Sinkhorn Distribution Matching Distillation"
+    authors: <strong>Jaihoon Kim</strong>, Lingxiao Li, Soshi Shimada, Roshni Cooper, Minhyuk Sung, Yiwei Zhao
+    # conference_short:
+    # conference:
+    pdf: https://arxiv.org/abs/2610.39889
+    code:
+    page: https://sinkhorn-dmd.github.io/
+    bibtex:
+    notes:
+    image: ./assets/img/sdmd-thumbnail.png
+
+  - title: "Unbalanced W-Flow: Unbalanced Wasserstein Drifting under Finite-Batch Marginal Fluctuations"
+    authors: Jongwook Jeon, Mingue Park, Jiwon Choi, <strong>Jaihoon Kim</strong>, Yunhong Min, Minhyuk Sung
+    # conference_short:
+    # conference:
+    pdf: https://arxiv.org/abs/2610.18552
+    code:
+    page:
+    bibtex:
+    notes:
+    image: ./assets/img/uwflow-thumbnail.png
+
   - title: "Contrastive Distribution Matching for Amortized Sequential Monte Carlo in Discrete Diffusion"
     authors: <strong>Jaihoon Kim</strong>, Taehoon Yoon, Prin Phunyaphibarn, Seungjun Kim, Morteza Mardani, Minhyuk Sung
     conference_short: NeurIPS

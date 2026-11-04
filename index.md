@@ -17,6 +17,7 @@ I work on designing generative models and efficient inference algorithms for syn
 
 ## News
 
+- **[Sep. 2026]** Co-organizer of BeNTo Workshop in NeurIPS 2026
 - **[Sep. 2026]** One paper is accepted to NeurIPS 2026
 - **[June. 2026]** One paper is accepted to ECCV 2026
 - **[June. 2026]** Internship at Netflix
